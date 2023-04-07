@@ -1,0 +1,11 @@
+.product-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+.product-img {
+  height: 400px;
+  width: 350px;
+}
